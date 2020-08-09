@@ -1,2 +1,2 @@
-for n in range(:100):
+for n in range(10):
     print(str(n) + " ")
